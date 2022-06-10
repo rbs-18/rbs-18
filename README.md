@@ -12,6 +12,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <h4 align="center">ℙℝ𝕆𝔽𝕀𝕃𝔼 𝕀ℕ𝔽𝕆</h4>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rbs-18&theme=radical)
