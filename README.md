@@ -2,9 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">ℙ𝕐𝕋ℍ𝕆ℕ 𝔹𝔸ℂ𝕂𝔼ℕ𝔻 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ 🐍</h3>
 <h4 align="center">ℂ𝕆ℕ𝕋𝔸ℂ𝕋𝕊</h4>
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/alekseikozhevnikov/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50%">
   </a>
 </p>
 <h4 align="center">𝕄𝕐 𝕊𝕂𝕀𝕃𝕊</h4>
