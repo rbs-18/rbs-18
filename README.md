@@ -4,7 +4,7 @@
 <h4 align="center">ℂ𝕆ℕ𝕋𝔸ℂ𝕋𝕊</h4>
 <p align="center">
   <a href="https://www.linkedin.com/in/alekseikozhevnikov/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="2%">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="4%">
   </a>
 </p>
 <h4 align="center">𝕄𝕐 𝕊𝕂𝕀𝕃𝕊</h4>
