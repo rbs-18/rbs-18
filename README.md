@@ -2,8 +2,11 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">ℙ𝕐𝕋ℍ𝕆ℕ 𝔹𝔸ℂ𝕂𝔼ℕ𝔻 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ 🐍</h3>
 <h4 align="center">ℂ𝕆ℕ𝕋𝔸ℂ𝕋𝕊</h4>
-<p>[![Contacts](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) <a href="https://www.linkedin.com/in/alekseikozhevnikov/">linkedin</a></p>
-<p>[![Contacts](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) <a href="https://www.linkedin.com/in/alekseikozhevnikov/">linkedin</a></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 <h4 align="center">𝕄𝕐 𝕊𝕂𝕀𝕃𝕊</h4>
 
 
@@ -17,7 +20,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![NGINX](<img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>)
+![NGINX](https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white")
 <h4 align="center">ℙℝ𝕆𝔽𝕀𝕃𝔼 𝕀ℕ𝔽𝕆</h4>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rbs-18&theme=radical)
