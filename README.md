@@ -1,6 +1,6 @@
 <h1 align="center">ℍ𝕚, 𝕀'𝕞 𝔸𝕝𝕖𝕜𝕤𝕖𝕚</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">ℙ𝕐𝕋ℍ𝕆ℕ 𝔹𝔸ℂ𝕂𝔼ℕ𝔻 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ 🐍</h3>
+<h3 align="center">ℙ𝕐𝕋ℍ𝕆ℕ 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ 🐍</h3>
 <h4 align="center">ℂ𝕆ℕ𝕋𝔸ℂ𝕋𝕊</h4>
 <p align="center">
   <a href="https://www.linkedin.com/in/alekseikozhevnikov/">
